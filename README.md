@@ -1,3 +1,6 @@
+# INCOMPLETE
+
+
 Go Blockchain - Basic
 Copyright 2018 Nathaniel Rand
 
