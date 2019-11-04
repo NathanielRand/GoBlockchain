@@ -1,7 +1,5 @@
 # GoBlockchain - Basic
 
-<hr>
-
 ### Install third-party packages
 
 Spew allows us to view structs and slices cleanly formatted in our console.
